@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: about me
 permalink: /
 # subtitle: <a href='hz2684@columbia.edu'>Email</a>.
 
