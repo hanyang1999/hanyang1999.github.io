@@ -1,7 +1,7 @@
 ---
 layout: post
 # title: A long announcement with details
-date: 2024-01-30 00:00:00-0000
+date: 2024-05-30 00:00:00-0000
 inline: true
 related_posts: false
 ---
@@ -32,4 +32,4 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 
 Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual. -->
 
-One paper in LLM alignment available on arxiv, check the [paper](https://arxiv.org/pdf/2405.14953) here.
+One paper in LLM alignment available on arxiv, check our [Mallows DPO](https://arxiv.org/pdf/2405.14953) paper here.
