@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Hanyang
 middle_name: 
 last_name: Zhao
-email: hz2685@columbia.edu
+email: # hz2685@columbia.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   description here
 footer_text: >
@@ -228,8 +228,8 @@ keep_files:
 # Plug-ins
 plugins:
   - jekyll-archives
-  - jekyll-email-protect
-  - jekyll-feed
+  # - jekyll-email-protect
+  # - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
