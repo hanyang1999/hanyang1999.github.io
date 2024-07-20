@@ -32,4 +32,4 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 
 Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual. -->
 
-One paper in Continuous-time RL accepted by NeuriPS 2023, check the [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/2c53bc01e30711a08f6ac86919193022-Paper-Conference.pdf) here.
+One paper in Continuous-time RL accepted by NeurIPS 2023, check the [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/2c53bc01e30711a08f6ac86919193022-Paper-Conference.pdf) here.
