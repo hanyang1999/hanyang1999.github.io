@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I start my internship as an Applied Research PhD Intern at Capital One, working on LLM Alignment (RLHF and DPO).
+I start my internship as an Applied Research PhD Intern at Capital One, working on LLM alignment (RLHF and DPO).
