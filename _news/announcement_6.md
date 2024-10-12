@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The short version of Mallows-DPO paper is accepted by [Pluralistic Alignment Workshop](https://pluralistic-alignment.github.io/) at NeurIPS 2024.
+A short version of [Mallows-DPO](https://arxiv.org/pdf/2405.14953) paper is accepted by [Pluralistic Alignment Workshop](https://pluralistic-alignment.github.io/) at NeurIPS 2024.
