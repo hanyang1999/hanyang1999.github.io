@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My internship project at Capital One, [RainbowPO](https://arxiv.org/pdf/2410.04203), is available on arxiv!
+Had a great summer at Capital One! My internship project, [RainbowPO](https://arxiv.org/pdf/2410.04203), is also now available on arxiv!
